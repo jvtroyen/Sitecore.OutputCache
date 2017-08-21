@@ -57,7 +57,7 @@
     <Compile Include="RenderRendering\RecordStatistics.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App_Config\Include\zTheReferencePackages\TheReference.DotNet.Sitecore.OutputCache.config">
+    <None Include="App_Config\Include\zOutputCache\OutputCache.config">
       <SubType>Designer</SubType>
     </None>
     <None Include="packages.config" />
